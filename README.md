@@ -1,11 +1,10 @@
 # testproject-hospyta
 >
-> ***The app targets node 18.7.0***\
-> link to API documentation on postman here: <https://documenter.getpostman.com/view/25777649/2sA3duGZ3e>
+> ***The app targets node 18.7.0***
 
 ## Start here
 
-To use the api, you would need mongodb, nodejs (TypeScript) and npm installed.\
+To use the api, you would need mongodb, nodejs (TypeScript) and npm installed.
 
 ### How to set up MongoDB
 > Install mongodb on your machine.\
