@@ -42,8 +42,8 @@ To use the api, you would need mongodb, nodejs (TypeScript) and npm installed.
 1. *Clone the Repository*
 
 ``` bash
-    git clone https://github.com/Lonercode/user-microservice-project.git
-    cd user-microservice-project
+    git clone https://github.com/Lonercode/testproject-hospyta.git
+    cd testproject-hospyta
 ```
 
 2. *Backend Setup*
@@ -65,3 +65,7 @@ To use the api, you would need mongodb, nodejs (TypeScript) and npm installed.
 ```bash
     npm run dev
 ```
+
+###
+>A challenge for me was time. I had envisioned a complete api with testing included but could not accomplish this due to power failures. 
+>In addition, the instructions were keen on authentication and security. I had to implement a couple of endpoints that achieved this feat while being cautious not to include routes that were unncessary. Drawing that line is a little difficult.
