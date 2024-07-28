@@ -65,4 +65,5 @@ To use the api, you would need mongodb, nodejs (TypeScript) and npm installed.
 
 ### Challenges
 >A challenge for me was time. I had envisioned a complete api with testing included but could not accomplish this due to power failures. 
->In addition, the instructions were keen on authentication and security. I had to implement a couple of endpoints that achieved this feat while being cautious not to include routes that were unncessary. Drawing that line is a little difficult.
+
+>In addition, the instructions were keen on authentication and security. I had to implement a couple of endpoints that achieved this feat while being cautious not to include routes that were unncessary. Drawing that line is a little difficult. I have however overcome this by testing the routes and in so doing have become assured of their neccesity.
