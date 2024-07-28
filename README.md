@@ -11,9 +11,6 @@ To use the api, you would need mongodb, nodejs (TypeScript) and npm installed.
 > Refer to the <a href="https://www.mongodb.com/docs/manual/installation">*www.mongodb.com*</a> for instructions on installation for your operation system.
 >Afterwards, start the mongod service in your cmd.
 
-## Alternative (Docker)
-> Alternatively, you can set up Docker for MongoDB. If docker is not installed in your machine, follow the guide here <a href='https://docs.docker.com/guidesgetting-started'>docker guide</a>.
-
 ### How to set up Nodejs
 >Install nodejs from <a href="https://nodejs.org">*nodejs.org*</a>. Likewise, follow the instructions for your operating system.
 >
